@@ -7,8 +7,6 @@ __pycache__/
 node_modules/
 *.log
 .DS_Store
-
-# File lokal praktikum/tugas lain yang tidak perlu di-push
 21114012610144_*
 mahmud.md
 test-api.js
