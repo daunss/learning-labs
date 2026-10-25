@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.env.local
+.vercel
+node_modules/
+*.log
+.DS_Store
+
+# File lokal praktikum/tugas lain yang tidak perlu di-push
+21114012610144_*
+mahmud.md
+test-api.js
+test_api.py
+thunder_collection.json
+postman_collection.json
